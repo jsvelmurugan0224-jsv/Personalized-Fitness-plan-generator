@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+transformers
+torch
+streamlit
+requests
+python-dotenv
+huggingface_hub
